@@ -1,0 +1,12 @@
+# local agent tooling state
+.omc/
+.claude/
+
+# build artifact
+*.skill
+
+# os / python
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
